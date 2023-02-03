@@ -1,0 +1,7 @@
+pione = str(ord('a')-ord('B'))
+pitwo = str(ord('q')-ord('H'))
+pithree = str(ord('h')-ord('-'))
+eone = str(ord('a')-ord('F'))
+etwo = str(ord('A')-ord('/'))
+ethree  = str(ord('b')-ord('F'))
+print(pione+pitwo+pithree,eone+etwo+ethree)

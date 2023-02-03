@@ -1,0 +1,80 @@
+Throw
+Double Jump
+Up Smash Attack
+Down Smash Attack
+Left Smash Attack
+Right Smash Attack
+Gunshot
+Fax Illusion
+Fire Fax
+Reflector
+Light Attack
+Quick Combo
+Up Tilt Attack
+Down Tilt Attack
+Left Tilt Attack
+Right Tilt Attack
+Running Attack
+Air Light Attack
+Up Air Attack
+Left Air Attack
+Right Air Attack
+Down Air Attack
+Throw
+Double Jump
+Up Smash Attack
+Down Smash Attack
+Left Smash Attack
+Right Smash Attack
+Gunshot
+Fax Illusion
+Fire Fax
+Reflector
+Light Attack
+Quick Combo
+Up Tilt Attack
+Down Tilt Attack
+Left Tilt Attack
+Right Tilt Attack
+Running Attack
+Air Light Attack
+Up Air Attack
+Left Air Attack
+Right Air Attack
+Down Air Attack
+Throw
+Double Jump
+Up Smash Attack
+Down Smash Attack
+Left Smash Attack
+Right Smash Attack
+Gunshot
+Fax Illusion
+Fire Fax
+Reflector
+Light Attack
+Quick Combo
+Up Tilt Attack
+Down Tilt Attack
+Left Tilt Attack
+Right Tilt Attack
+Running Attack
+Air Light Attack
+Up Air Attack
+Left Air Attack
+Right Air Attack
+Down Air Attack
+Throw
+Double Jump
+Light Attack
+Quick Combo
+Up Tilt Attack
+Down Tilt Attack
+Left Tilt Attack
+Right Tilt Attack
+Running Attack
+Air Light Attack
+Up Air Attack
+Left Air Attack
+Right Air Attack
+Down Air Attack

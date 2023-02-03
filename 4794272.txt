@@ -1,0 +1,1 @@
+#define i(n)t long long

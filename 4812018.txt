@@ -1,0 +1,6 @@
+A frequent complaint about programming contests is that the problems are too hard. This makes competitors upset.
+It is the goal of this problem to make a problem which hopefully anyone can solve.
+How do you produce a problem which anyone can solve? The way to do so is to make the problem as accessible as possible. If we look at the solved.ac ranking model, we can see that all topics have a lower bound on their difficulty. For example, problems which require knowledge of strings must be rated at least bronze II, problems which require knowledge of loops must be rated at least bronze III, and problems which require knowledge of conditional statements must be rated at least bronze IV.
+The easiest problems are rated bronze V, but generally assume knowledge of I/O. However, they also have some other implicit assumptions, such as the ability to write programs that compile or the ability to read and comprehend a problem statement.
+This problem has been designed in a way that it should be solvable by anyone who is capable of making a submission to this problem, which we lower bound at Wood IV.
+The problem author would like to thank Ninjaclasher for providing assistance in making this problem a reality.

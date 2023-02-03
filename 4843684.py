@@ -1,0 +1,7 @@
+pi1 = str(ord('a')-ord('B'))
+pi2 = str(ord('q')-ord('H'))
+pi3 = str(ord('h')-ord('-'))
+e1 = str(ord('a')-ord('F'))
+e2 = str(ord('A')-ord('/'))
+e3  = str(ord('b')-ord('F'))
+print(pi1+pi2+pi3,e1+e2+e3)
